@@ -1,4 +1,5 @@
 ## Recommendation_System
+A recommender system typically includes items that you have rated or purchased, alongside other data, though details are often proprietary. It operates similarly to Amazon's "People who bought this also bought" feature, which suggests items similar to your current interest based on immediate browsing behavior. In contrast, Amazon's personalized recommendations use your entire history of interactions to tailor suggestions. Netflix employs a similar approach, recommending new movies based on your past likes and viewing history, often categorizing recommendations by genre to enhance relevance and user satisfaction.
 #Dataset Description:
 
 The kurtiData.csv dataset sourced from Kaggle contains information related to kurtis, a popular garment in South Asian fashion. This dataset is structured with the following columns:
