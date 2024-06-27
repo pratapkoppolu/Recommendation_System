@@ -2,6 +2,9 @@
 A recommender system typically includes items that you have rated or purchased, alongside other data, though details are often proprietary. It operates similarly to Amazon's "People who bought this also bought" feature, which suggests items similar to your current interest based on immediate browsing behavior. In contrast, Amazon's personalized recommendations use your entire history of interactions to tailor suggestions. Netflix employs a similar approach, recommending new movies based on your past likes and viewing history, often categorizing recommendations by genre to enhance relevance and user satisfaction.
 #Dataset Description:
 
+
+
+# Data Analysis 
 The kurtiData.csv dataset sourced from Kaggle contains information related to kurtis, a popular garment in South Asian fashion. This dataset is structured with the following columns:
 
 user_id: Unique identifier for each user interacting with the kurtis.
@@ -16,9 +19,8 @@ Dataset Statistics:
 Rows: 425,998
 Columns: 7
 Purpose:
-This dataset is valuable for analyzing user interactions with kurti products on an e-commerce platform. It enables the development of AI models for tasks such as personalized recommendations, content generation, and A/B testing frameworks to enhance user engagement and satisfaction.
+This dataset is valuable for analyzing user interactions with kurti products on an e-commerce platform. It enables the development of AI models for tasks such as personalized recommendations, content generation, and A/B testing frameworks to enhance user engagement and satisfaction. 
 
-# Data Analysis 
 Data analysis is performed on the kurtiData.csv dataset to identify popular kurti products based on user interactions. Among the analyzed products, "Adrika Voguish Kurtis" emerges with the highest number of ratings at 4,748 and an average rating of 4.36 stars. Following closely is "Zola Georgette Ethnic Wear" with 385 ratings and an average rating of 4.29 stars. This analysis provides insights into product popularity and user preferences.
 
 # Recommendation based on User-based collaborative filtering
